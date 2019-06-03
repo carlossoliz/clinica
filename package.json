@@ -4,6 +4,7 @@
   "description": "buscador",
   "main": "index.js",
   "scripts": {
+	"start" : "webservice.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
